@@ -20,26 +20,52 @@ I'm a passionate software engineer specialized in building scalable web applicat
 
 ```javascript
 const techStack = {
+  languages: {
+    javascript: ['JavaScript (ES6+)'],
+    typescript: ['TypeScript'],
+    python: ['Python'],
+    markup: ['HTML5', 'CSS3', 'JSX'],
+  },
+
   frontend: {
-    core: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
     frameworks: ['React', 'Next.js', 'React Native'],
-    state: ['Redux', 'React Query', 'Recoil'],
-    ui: ['Tailwind CSS', 'Material UI', 'Shadcn UI', 'Bootstrap'],
+    stateManagement: ['Redux', 'React Query', 'Recoil'],
+    uiLibraries: ['Tailwind CSS', 'Shadcn UI', 'Ant Design', 'Bootstrap'],
     forms: ['React Hook Form', 'Formik'],
+    animation: ['Framer Motion', 'GSAP'],
   },
+
   backend: {
-    runtime: ['Node.js'],
-    frameworks: ['Express.js'],
-    databases: ['MongoDB', 'PostgreSQL'],
-    baas: ['Firebase', 'Appwrite'],
+    runtimes: {
+      javascript: ['Node.js', 'Bun', 'Deno'],
+      python: ['CPython'],
+    },
+    frameworks: ['Express.js', 'FastAPI'],
+    servers: ['Uvicorn', 'Gunicorn'], // ASGI/WSGI servers
+    packageManagers: {
+      javascript: ['npm', 'yarn', 'pnpm', 'bun'],
+      python: ['pip', 'uv'],
+    },
+    databases: ['PostgreSQL', 'MongoDB'],
+    baas: ['Firebase', 'Supabase', 'Appwrite'],
   },
+
   devops: {
     cloud: ['AWS', 'Vercel', 'Netlify'],
     containers: ['Docker'],
     ci_cd: ['GitHub Actions'],
+    infrastructure: ['REST/GraphQL APIs', 'Webhooks', 'Microservices'],
   },
-  tools: ['Git', 'Postman', 'VS Code', 'Pwsh'],
-  currently_learning: ['Backend infrastructure', 'Api integration', 'Micro services'],
+
+  tools: ['Git', 'Postman', 'VS Code', 'PowerShell (Pwsh)', 'Zsh'],
+
+  learning: [
+    'Backend infrastructure design',
+    'Advanced API integration patterns',
+    'Microservices architecture',
+    'Observability & monitoring',
+    'Authentication/Authorisation at scale',
+  ],
 };
 ```
 
