@@ -70,6 +70,27 @@ I build **production web applications and systems-level software end-to-end** �
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![AES--256--GCM](https://img.shields.io/badge/AES--256--GCM-1B1F24?style=flat-square&logo=letsencrypt&logoColor=white)
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Wosmos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&cache_seconds=86400" alt="Wasif's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wosmos&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&cache_seconds=86400" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Wosmos&theme=react&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wosmos&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true&area=true" alt="Contribution activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Wosmos&theme=algolia&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
+
+</div>
+
 ## 🌟 My Card
 
 ```bash
