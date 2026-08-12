@@ -70,17 +70,6 @@ I build **production web applications and systems-level software end-to-end** �
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![AES--256--GCM](https://img.shields.io/badge/AES--256--GCM-1B1F24?style=flat-square&logo=letsencrypt&logoColor=white)
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Wasif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wosmos&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wosmos&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Wosmos&theme=react&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)
-
-</div>
-
 ## 🌟 My Card
 
 ```bash
