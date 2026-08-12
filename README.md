@@ -76,11 +76,13 @@ I build **production web applications and systems-level software end-to-end** �
      These are committed static SVGs — they never rate-limit or 503 like live services. -->
 <div align="center">
 
-<img src="./metrics.svg" alt="GitHub metrics — stats, languages, activity, habits" width="100%" />
+<img src="./metrics.svg" alt="GitHub metrics — stats & activity" width="480" />
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wosmos/wosmos/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Wosmos/wosmos/output/snake.svg" alt="Contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Wosmos/wosmos/output/snake.svg" alt="Contribution snake" width="800" />
 </picture>
 
 </div>
