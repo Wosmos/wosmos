@@ -72,22 +72,16 @@ I build **production web applications and systems-level software end-to-end** �
 
 ## 📊 GitHub Analytics
 
+<!-- Generated daily by GitHub Actions (.github/workflows/metrics.yml + snake.yml).
+     These are committed static SVGs — they never rate-limit or 503 like live services. -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Wosmos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&cache_seconds=86400" alt="Wasif's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wosmos&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&cache_seconds=86400" alt="Top languages" />
+<img src="./metrics.svg" alt="GitHub metrics — stats, languages, activity, habits" width="100%" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Wosmos&theme=react&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wosmos&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true&area=true" alt="Contribution activity graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Wosmos&theme=algolia&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wosmos/wosmos/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Wosmos/wosmos/output/snake.svg" alt="Contribution snake" width="100%" />
+</picture>
 
 </div>
 
