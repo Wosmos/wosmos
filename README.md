@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://wosmos.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=800&color=00D4FF&center=true&vCenter=true&width=720&lines=Wasif+Malik;Software+Engineer+%C2%B7+Go+%C2%B7+Next.js+%C2%B7+Systems;Zero-knowledge+security.+Concurrent+backends." alt="Wasif Malik" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=800&color=00D4FF&center=true&vCenter=true&width=850&lines=Wasif+Malik;Software+Engineer+%C2%B7+Go+%C2%B7+Next.js+%C2%B7+Systems;Zero-knowledge+security.+Concurrent+backends." alt="Wasif Malik" />
 </a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-wosmos.vercel.app-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://wosmos.vercel.app/)
